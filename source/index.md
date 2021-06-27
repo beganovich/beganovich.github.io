@@ -33,7 +33,7 @@ Developer, software engineer. Linux fanboy. Located in Bosnia and Herzegovina ðŸ
 
 [Slickpay](https://github.com/slickpay/slickpay) is a lightweight abstraction layer for popular payment gateways. Built using PHP.
 
-[E-Dnevnik](https://dnevnik.sts-bugojno.ba/login) is students managements system for my school. Includes management of students, grades, and everything else that you can expect from the school management system.
+[E-Dnevnik](https://dnevnik.sts-bugojno.ba/login) is students managements system for the school. Includes management of students, grades, and everything else that you can expect from the school management system.
 Built using PHP, Bootstrap 4, and Vue.js.
 
 <small>
